@@ -1,0 +1,5 @@
+VITE_SUPABASE_PROJECT_ID="obbisqvceqrznjnolxhy"
+VITE_SUPABASE_PUBLISHABLE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9iYmlzcXZjZXFyem5qbm9seGh5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI5NzQ1MDgsImV4cCI6MjA4ODU1MDUwOH0.49mz9axnotQaiOqdmfp8TSwqmytjGe3hsJh1xWmQDhQ"
+VITE_SUPABASE_URL="https://obbisqvceqrznjnolxhy.supabase.co"
+
+project_id = "obbisqvceqrznjnolxhy"

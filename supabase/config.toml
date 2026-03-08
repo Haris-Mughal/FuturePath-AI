@@ -1,0 +1,4 @@
+project_id = your_project_id_here
+
+[functions.generate-timeline]
+verify_jwt = false
