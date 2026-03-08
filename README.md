@@ -1,73 +1,63 @@
-# Welcome to FuturePath AI
+# FuturePath AI
 
-## Project info
+**Preview your life 10 years ahead before making major decisions.**
 
-**URL**: 
+FuturePath AI is an AI-powered decision simulation platform that helps users explore how different life choices might shape their future. By analyzing user inputs such as career path, goals, and risk tolerance, the system generates a realistic 10-year timeline of potential milestones, opportunities, and challenges.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ Features
 
-**Use Lovable**
+• AI-generated **10-year life simulation**  
+• Interactive **future timeline visualization**  
+• Compare **multiple decision paths** side-by-side  
+• Clean, modern **responsive UI**  
+• Fast and lightweight web application  
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🧠 How It Works
 
-**Use your preferred IDE**
+1. Enter basic details about yourself and your goals.
+2. Choose a career path and risk level.
+3. The AI simulation engine generates a **10-year future timeline**.
+4. Explore possible milestones, challenges, and achievements.
+5. Compare different decisions to see how outcomes may vary.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+The goal is to provide an intuitive way to **visualize long-term consequences before making important life decisions.**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠 Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **React**
+- **Tailwind CSS**
+- **JavaScript**
+- **Node.js**
+- **AI APIs**
+- **Vite**
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 💡 Use Cases
+- Exploring different career paths
+- Visualizing long-term outcomes of decisions
+- Personal goal planning
+- Educational and career guidance
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 🔮 Future Improvements
+- Advanced predictive models
+- Data-driven probability scoring
+- Personalized recommendations
+- Financial and career forecasting
+- Integration with real-world datasets
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🌐 Live Demo
 
-**Use GitHub Codespaces**
+[future-pathai.vercel.app](https://future-pathai.vercel.app/)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+> ~Muhammad Haris Ahsan
